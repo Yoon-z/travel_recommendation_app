@@ -1,0 +1,453 @@
+Tourist attraction                  22664
+Park                                 2893
+Museum                               2202
+Historical landmark                  1232
+Hiking area                           951
+Sehenswürdigkeit                      602
+State park                            565
+Nature preserve                       546
+Memorial park                         403
+Catholic church                       320
+Castle                                309
+Scenic spot                           251
+Wildlife refuge                       236
+Observation deck                      232
+Dog park                              168
+Animal park                           147
+Church                                144
+Evangelical church                    137
+Local history museum                  126
+Wildlife park                         121
+Event venue                           120
+Garden                                112
+Zoo                                   109
+Bridge                                108
+Historical place                      104
+Amusement park                        104
+National park                         100
+Art museum                             97
+History museum                         90
+Campground                             88
+Öffentlicher Park                      85
+Monastery                              79
+Botanical garden                       78
+Public beach                           77
+Chapel                                 71
+Technology museum                      70
+Restaurant                             65
+City park                              64
+Winery                                 60
+Playground                             59
+Tourist information center             58
+National reserve                       58
+Natural history museum                 58
+Monument                               58
+Art gallery                            55
+Fountain                               54
+Holiday apartment                      49
+National forest                        49
+Cultural landmark                      47
+Cafe                                   46
+Swimming lake                          46
+Open air museum                        45
+Vista point                            43
+Landmark                               42
+Holiday park                           42
+Heritage museum                        41
+Function room facility                 41
+Club                                   41
+Recreation center                      40
+Ski resort                             36
+Tour agency                            36
+RV park                                35
+Hotel                                  34
+Cultural center                        33
+Museum für Lokalgeschichte             32
+Wedding venue                          31
+Sculpture                              30
+Places of interest                     30
+Skateboard park                        29
+Place of worship                       27
+Tour operator                          27
+Cathedral                              25
+Vacation home rental agency            25
+Historisches Museum                    25
+Holiday home                           24
+Mobile home park                       23
+Modern art museum                      23
+Memorial                               23
+Catholic cathedral                     23
+Association / Organization             23
+Live music venue                       22
+Art center                             21
+Sports complex                         21
+Mine                                   21
+Resort hotel                           21
+Observatory                            21
+Fortress                               20
+Schloss                                20
+Historische Sehenswürdigkeit           20
+Archaeological museum                  20
+Tierpark                               19
+Wine store                             19
+Kunstmuseum                            19
+City Hall                              19
+Mountain cable car                     19
+Lake shore swimming area               19
+Mill                                   18
+Rail museum                            18
+Educational institution                18
+Ecological park                        17
+Science museum                         17
+Cottage                                17
+Souvenir store                         16
+Wandergebiet                           15
+Cemetery                               15
+Arboretum                              15
+Children's amusement center            15
+Lutheran church                        15
+Beer garden                            15
+Parking lot                            15
+Store                                  15
+Dog trainer                            15
+Promenade                              14
+Summer toboggan run                    14
+Visitor center                         14
+Rest stop                              14
+War memorial                           14
+Children's museum                      14
+Historical place museum                14
+Escape room center                     14
+Dog day care center                    13
+Heritage preservation                  13
+Marina                                 13
+Sightseeing tour agency                13
+Wine bar                               13
+Bird watching area                     13
+Pilgrimage place                       13
+Religious destination                  13
+Rock climbing                          12
+Plaza                                  12
+Farm                                   12
+Kennel                                 12
+Aquarium                               12
+Library                                12
+Botanischer Garten                     12
+Vineyard                               11
+Farm shop                              11
+Protestant church                      11
+Army museum                            11
+Concert hall                           11
+Boarding house                         11
+Snack bar                              11
+Guest house                            11
+Indoor playground                      11
+Liquor store                           10
+Foundation                             10
+Bar                                    10
+Freilichtmuseum                        10
+Event management company               10
+Garten                                 10
+Bicycle rental service                 10
+Inn                                    10
+Handicraft museum                      10
+Bistro                                 10
+Performing arts theater                10
+Planetarium                             9
+Religious organization                  9
+Boat tour agency                        9
+Serviced accommodation                  9
+Railroad company                        9
+Miniature golf course                   9
+Animal protection organization          9
+Dog walker                              9
+Market                                  9
+Archäologisches Museum                  9
+Boat ramp                               9
+Rectory                                 9
+Laser tag center                        9
+Freizeitpark                            9
+Roller coaster                          9
+Brewery                                 8
+Veranstaltungsstätte                    8
+Theme park                              8
+Basilica                                8
+Cycling park                            8
+Non-profit organization                 8
+Drinking water fountain                 8
+Coffee shop                             8
+Spa garden                              8
+Technikmuseum                           8
+Artist                                  7
+Naturkundemuseum                        7
+Mosque                                  7
+Exhibition and trade centre             7
+Christian church                        7
+Holiday apartment rental                7
+Youth center                            7
+Learning center                         7
+Farmstay                                7
+Toy museum                              7
+High ropes course                       7
+RV storage facility                     7
+Veranstaltungsraum                      6
+Heimatmuseum                            6
+Sauna                                   6
+Book store                              6
+Mountain cabin                          6
+Amusement park ride                     6
+Lodging                                 6
+Concentration camp memorial site        6
+Gift shop                               6
+Handicraft                              6
+Distillery                              6
+Research institute                      6
+Space of remembrance                    6
+Country park                            6
+Seminary                                6
+Travel agency                           6
+Christmas market                        6
+Dude ranch                              5
+Consultant                              5
+Non smoking holiday home                5
+Spa                                     5
+Training centre                         5
+Historical market square                5
+Wildpark                                5
+Picnic ground                           5
+German restaurant                       5
+Farm household tour                     5
+Weir                                    5
+Orchard                                 5
+Fairground                              5
+Art studio                              5
+Museum für moderne Kunst                5
+RV supply store                         5
+Bowling alley                           5
+Event planner                           5
+Corporate office                        5
+Archery range                           5
+Spielplatz                              5
+BBQ area                                5
+Video arcade                            5
+Boat rental service                     5
+Fishing pond                            5
+Children's camp                         5
+Wildlife and safari park                4
+Swimming facility                       4
+Sculpture museum                        4
+School                                  4
+Canoe & kayak rental service            4
+Outdoor activity organiser              4
+Toy store                               4
+Archaeological site                     4
+Gardener                                4
+Clothing store                          4
+Golf course                             4
+Canoeing area                           4
+Wissenschaftsmuseum                     4
+Museum und historische Stätte           4
+Education center                        4
+Archive                                 4
+Information services                    4
+Landscaper                              4
+Organic farm                            4
+Adventure sports                        4
+Landschaftsschutzgebiet                 4
+Dog breeder                             4
+Animal rescue service                   4
+Water mill                              4
+Manufacturer                            4
+Government office                       4
+Museum of zoology                       4
+Buddhist temple                         4
+Indoor lodging                          4
+Verein                                  4
+Stadtwäldchen                           4
+Dome                                    4
+Off-road race track                     4
+Stage                                   4
+Quarry                                  4
+Hydroelectric power plant               4
+Heritage building                       4
+Office space rental agency              4
+Charity                                 4
+Forestry office                         4
+Kathedrale                              3
+Paintball center                        3
+Synagogue                               3
+Music school                            3
+Super public bath                       3
+Cultural association                    3
+Bildungseinrichtung                     3
+Kunstgalerie                            3
+Festung                                 3
+Carriage ride service                   3
+Beach pavillion                         3
+Fishing lake                            3
+Wellness program                        3
+Bibliothek                              3
+Festival hall                           3
+Hochzeitsräumlichkeit                   3
+Aquatic centre                          3
+Natural stone supplier                  3
+Forestry service                        3
+Family restaurant                       3
+Rock shop                               3
+Naturschutzgebiet                       3
+Veranstaltungsort für Livemusik         3
+Wildlife rescue service                 3
+Stadium                                 3
+Honey farm                              3
+Outdoor bath                            3
+Art dealer                              3
+Transportation service                  3
+Biking trail                            3
+Religious institution                   3
+Ethnographic museum                     3
+Swimming basin                          3
+Horseback riding service                3
+Registry office                         3
+Athletic field                          3
+Kindermuseum                            3
+Kulturzentrum                           3
+Parking lot for motorcycles             3
+Wellness center                         3
+Convent                                 3
+Natural rock climbing area              3
+Free parking lot                        3
+Environmental consultant                3
+Konzertsaal                             3
+Cabin rental agency                     3
+Bildungszentrum                         3
+Congregation                            3
+Butcher shop                            3
+Biergarten                              3
+Stiftung                                3
+Food manufacturer                       3
+Orthodox church                         3
+Caterer                                 3
+Dog cafe                                3
+Food products supplier                  3
+Amphitheater                            3
+Brewpub                                 3
+Kulturelles Denkmal                     3
+Metal processing company                2
+Marriage license bureau                 2
+Adventure sports center                 2
+Barbecue restaurant                     2
+Foundry                                 2
+Homestay                                2
+Needlework shop                         2
+Bavarian restaurant                     2
+Home goods store                        2
+Car factory                             2
+Wellness hotel                          2
+Community garden                        2
+Outdoor furniture store                 2
+Kirche                                  2
+Carpenter                               2
+Kiosk                                   2
+Meat dish restaurant                    2
+Flea market                             2
+Christmas store                         2
+Children hall                           2
+Wool store                              2
+Summer camp organizer                   2
+Café                                    2
+Bed & breakfast                         2
+Volunteer organization                  2
+Touristeninformation                    2
+City government office                  2
+Geschenkladen                           2
+Amusement center                        2
+Shopping mall                           2
+Wedding planner                         2
+Herb shop                               2
+Conference center                       2
+Pub                                     2
+Opera house                             2
+Business park                           2
+Adult education school                  2
+Municipal administration office         2
+Miniatures store                        2
+Wedding chapel                          2
+Optician                                2
+Golf club                               2
+Swimming pool                           2
+Lodge                                   2
+Ice cream shop                          2
+Yoga studio                             2
+Mobile home rental agency               2
+Children's farm                         2
+Produce market                          2
+Hair salon                              2
+Landschaftlich schöner Ort              2
+Villa                                   2
+War museum                              2
+University                              2
+Bus charter                             2
+Animal shelter                          2
+Wedding service                         2
+Goldsmith                               2
+Entertainment agency                    2
+Pet groomer                             2
+Sports club                             2
+Aquaculture farm                        2
+Airport                                 2
+Schulungszentrum                        2
+Public swimming pool                    2
+Maritime museum                         2
+Country house                           2
+Website designer                        2
+Camping farm                            2
+Camping cabin                           2
+Lounge                                  2
+Geschäft                                2
+Künstler                                2
+Outdoor swimming pool                   2
+Garden center                           2
+Kloster                                 2
+Mining equipment                        2
+Water park                              2
+Equestrian facility                     2
+Pagoda                                  2
+Indoor swimming pool                    2
+Children's party service                2
+Wedding buffet                          2
+Russian Orthodox church                 2
+Arts organization                       2
+Municipal Department of Tourism         2
+Beach volleyball court                  2
+Zoologisches Museum                     2
+Forschungsinstitut                      2
+Auction house                           2
+Bus stop                                2
+Gourmet grocery store                   2
+Event ticket seller                     2
+Deli                                    2
+Archiv                                  2
+Railway services                        2
+Ice skating rink                        2
+Eventmanagement-Firma                   2
+Youth hostel                            2
+Cruise agency                           2
+Eisenbahnmuseum                         2
+Bicycle repair shop                     2
+Information centers                     2
+Ranch                                   2
+Racecourse                              2
+Aquarium shop                           2
+Touren- und Reiseanbieter               2
+Tourism                                 2
+Apartment rental agency                 2
+Arena                                   2
+Pond supply store                       2
+Council                                 2
+Besucherzentrum                         2
+Blacksmith                              2
+Farmers' market                         2
+Bakery                                  2
+Water treatment plant                   2
+Ferris wheel                            2
+Name: count, dtype: int64

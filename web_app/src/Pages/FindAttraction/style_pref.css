@@ -1,0 +1,63 @@
+
+h2 {
+  font-family:'Times New Roman', Times, serif;
+  font-size: 30px;
+  text-align: center;
+  color: #333;
+  margin-bottom: 0px;
+}
+
+
+.recommendation-grid {
+  font-family:'Courier New', Courier, monospace;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  justify-content: center;
+  margin: 20px;
+}
+
+.survey {
+  font-family:'Courier New', Courier, monospace;
+  width: 800px;
+  margin: 0 auto;
+  border: none;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  padding: 20px;
+}
+
+.survey h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.survey-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.survey-item label {
+  flex: 1;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+
+

@@ -1,0 +1,104 @@
+.pref {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+  padding: 8px;
+}
+
+.image-grid div {
+  width: 100%;
+  text-align: center;
+}
+
+.image-grid img {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.2s;
+  border: 2px solid transparent;
+}
+
+.image-grid img:hover {
+  transform: translateY(-2px);
+}
+
+.image-grid img.clicked {
+  border-color: #3c8c6c;
+  transform: scale(0.98);
+}
+
+@media (max-width: 1200px) {
+  .image-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (max-width: 900px) {
+  .image-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .image-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.image-container h4 {
+  margin-top: 10px;
+  font-size: 1rem;
+}
+
+.image-container {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 180px;
+  height: 150px;
+  transition: transform 0.3s ease;
+  object-fit: cover;
+}
+
+img.clicked {
+  transform: scale(0.7);
+}
+
+.submit-button {
+  margin-top: 20px;
+  background-color: initial;
+}
+
+.submit-button .button {
+  font-size: 14px;
+  width: 100px;
+  height: 40px;
+  text-align: center;
+  cursor: pointer;
+  display: inline-block;
+  background-color: lightseagreen;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.submit-button .button:hover {
+  background-color: darkseagreen;
+}

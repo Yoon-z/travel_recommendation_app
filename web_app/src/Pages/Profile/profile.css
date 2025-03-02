@@ -1,0 +1,123 @@
+/* General container */
+#preferences {
+    margin: 50px;
+    align-items: center;
+}
+
+#saved {
+    margin: 50px;
+    align-items: center;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+/* Preference images section */
+#pic {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#pic img {
+    width: 230px;
+    height: 200px;
+}
+
+/* Button to change preferences */
+#change {
+    width: 200px;
+    padding: 10px 20px;
+    font-size: 12px;
+    background-color: lightseagreen;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#change:hover {
+    background-color: #45a049;
+}
+
+/* Saved attractions section */
+.saved-attractions-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.saved-attractions-row a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.saved-attractions-row img {
+    width: 230px;
+    height: 200px;
+}
+
+.saved-attractions-row h5 {
+    margin-top: 5px;
+    text-align: center;
+}
+
+/* Ensure only 5 images per row */
+.saved-attractions-row {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    /* Max 5 images per row */
+    gap: 10px;
+}
+
+.saved-attractions-row a {
+    text-align: center;
+}
+
+.MuiContainer-root {
+    margin-top: 64px;
+    margin-bottom: 20px;
+    max-width: 1200px !important;
+    padding: 0 24px;
+}
+
+.MuiPaper-root {
+    background-color: #ffffff;
+    border-radius: 8px !important;
+    border: 1px solid #e0e0e0;
+}
+
+.MuiPaper-root:hover {
+    border: 1px solid #d0d0d0;
+}
+
+img {
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+}
+
+.MuiButton-root {
+    text-transform: none;
+    font-weight: 500;
+}
+
+.MuiTypography-root {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+@media (max-width: 960px) {
+    .MuiContainer-root {
+        padding: 0 16px;
+    }
+}

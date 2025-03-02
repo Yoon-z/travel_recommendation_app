@@ -1,0 +1,32 @@
+db.attraction_clusters.updateMany(
+  { _ids: { $exists: true } },  // Find documents where _ids exists
+  [
+    {
+      $set: {
+        ids_list: {
+          $map: {
+            input: {
+              $split: [
+                {
+                  $trim: {
+                    input: {
+                      $replaceAll: {
+                        input: { $trim: { input: "$_ids", chars: "[]" } },  // Remove the square brackets
+                        find: "'",  // Find all single quotes
+                        replacement: ""  // Replace with nothing (remove single quotes)
+                      }
+                    },
+                    chars: " "  // Trim spaces if there are any left
+                  }
+                },
+                ","  // Split by comma
+              ]
+            },
+            as: "id_str",
+            in: { $trim: { input: "$$id_str", chars: " " } }  // Trim any extra spaces around the IDs
+          }
+        }
+      }
+    }
+  ]
+)
